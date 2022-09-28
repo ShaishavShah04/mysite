@@ -5,3 +5,13 @@ Q2: Basic starter page with the rocket ship!
 Q3. "/" has an error that no path is defined. "/polls" returns the hello world message we wrote!
 
 Q4: Migration basically means telling the database to checkout any changes we made to our code models, and "migrate" them within the actual db itself. 
+
+Q5: You see a basic CRUD functionality for the models. In order to see them, you must register them onto the admin view.
+
+Q6: /polls/38/ = You're looking at question 38.
+    /polls/38/results = You're looking at the results of question 38.
+    /poll/38/vote = You're voting on question 38.
+
+    If you don't put int, then you get page not found error since the path doesn't match.
+
+    Use 'str' instead of 'int'
