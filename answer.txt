@@ -3,3 +3,5 @@ Q1:
 Q2: Basic starter page with the rocket ship!
 
 Q3. "/" has an error that no path is defined. "/polls" returns the hello world message we wrote!
+
+Q4: Migration basically means telling the database to checkout any changes we made to our code models, and "migrate" them within the actual db itself. 
