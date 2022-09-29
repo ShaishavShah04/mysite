@@ -18,3 +18,4 @@ Q6: /polls/38/ = You're looking at question 38.
 
 Q7: Since we may change the paths later on. This allows us to not have to worry about updating everything!
 
+Q8: For repetitive code, where we are doing things like showing a model, or things like lists, a generic view can save us time. For things were we want custom views, generic views arent the way to go.
