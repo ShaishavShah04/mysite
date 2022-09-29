@@ -15,3 +15,6 @@ Q6: /polls/38/ = You're looking at question 38.
     If you don't put int, then you get page not found error since the path doesn't match.
 
     Use 'str' instead of 'int'
+
+Q7: Since we may change the paths later on. This allows us to not have to worry about updating everything!
+
